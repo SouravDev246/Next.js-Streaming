@@ -20,17 +20,4 @@ This video covers:
 
 ## 🤝 Contribution
 
-This repository is primarily for educational purposes based on the YouTube crash course. Feel free to fork the project, submit issues, or make improvements for your own learning!
-
-
----
-
-## ⭐ Show Your Support
-
-If this crash course helped you, please:
-
--   ⭐ Star this repo
--   🍿 Subscribe on [YouTube](https://youtube.com/@LearnwithSumit)
--   🧑‍🏫 Share it with others!
-
----
+This repository is primarily for educational purposes based on the YouTube crash course. Feel free to fork the project, submit issues, or make improvements for your own learning
